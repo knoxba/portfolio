@@ -5,6 +5,7 @@ The git commits contain each project submitted in course 210.
 - What did you do particularly well?
    - What I did well through this process is breakdown the project into manageable chunks that could be assigned to a method. For instance, the banking application robustness is particularly complex, however object-oriented programming supports code reuseability that is reflected here. The main method remained decluttered of driving code, but rather contained method calls to class-inherited methods. I did this part well as it makes debugging an easier task to accomplish by knowing where the main method ceased and which class-inherited method is problematic.
 - Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
+  - This code could be enhanced further by increasing method utilization. Specifically, a strong method is best written to handle many different cases, regardless of what type of data is being passed through. Instead of meatier methods, I would provide more parameterization (i.e., passing data as method parameters).
 - Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 - What skills from this project will be particularly transferable to other projects or course work?
 - How did you make this program maintainable, readable, and adaptable?
